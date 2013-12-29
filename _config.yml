@@ -1,0 +1,12 @@
+name: joelsoderberg.se
+description: Trodde den skulle handla om annat.
+meta_description: "joelsoderberg.se, Trodde den skulle handla om annat."
+
+markdown: redcarpet
+pygments: true
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'http://joelsoderberg.se'
+author:         'Joel Söderberg'

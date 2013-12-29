@@ -1,0 +1,2 @@
+#!/bin/bash
+rsync -avz --delete _site/ srv2.deadbeefcafe.se:/var/www/joelsoderberg.se
