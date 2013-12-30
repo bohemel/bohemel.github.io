@@ -1,6 +1,11 @@
 name: joelsoderberg.se
 description: Trodde den skulle handla om annat.
 meta_description: "joelsoderberg.se, Trodde den skulle handla om annat."
+rss_path: rss.xml
+
+author :
+  name : Joel Söderberg
+  email : joel@joelsoderberg.se
 
 markdown: redcarpet
 pygments: true
