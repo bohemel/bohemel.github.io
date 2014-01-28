@@ -10,7 +10,7 @@ author :
 markdown: redcarpet
 pygments: true
 logo: false
-paginate: 15
+paginate: 10
 
 # Details for the RSS feed generator
 url:            'http://joelsoderberg.se'
