@@ -952,3 +952,8 @@ margin on the iframe, cause it breaks stuff. */
 .post-excerpt img {
   max-width: 100%;
 }
+
+.home-template .post {
+	padding-bottom: 0;
+}
+
