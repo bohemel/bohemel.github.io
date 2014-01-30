@@ -8,7 +8,7 @@
 
     $(document).ready(function(){
         $(".post-content, .post-excerpt").fitVids();
-      $('iframe[src*="spotify"]').wrap($('<div />').css({'width': 300, 'margin': '1em auto'}));
+      $('iframe[src*="spotify"]').attr({width: 288, height: 368}).wrap($('<div />').css({'width': 288, 'margin': '1em auto'}));
     });
 
 }(jQuery));
